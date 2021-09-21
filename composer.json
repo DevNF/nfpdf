@@ -1,0 +1,19 @@
+{
+    "name": "nfservice/nfpdf",
+    "description": "Biblioteca para NFPDF",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Almeida",
+            "email": "diego.feres82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NFPDF\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
